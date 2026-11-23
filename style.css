@@ -1,0 +1,9 @@
+.box{
+    background-image: url(../imgs/dark-technology-hexagonal-background_91128-1258.avif);
+    background-color: #cccccc;
+}
+.LoginBox{
+    padding-left: 5%;
+    padding-top: 5%;
+    font-size: 75px;
+}
